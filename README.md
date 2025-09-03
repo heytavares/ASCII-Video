@@ -8,8 +8,6 @@ A fun, interactive project demonstrating **HTML, CSS, and JavaScript** skills. U
 
 ## Demo
 
-Include a screenshot or GIF of the project here to make it visually appealing.  
-
 ---
 
 ## Features
